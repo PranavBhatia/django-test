@@ -1,1 +1,1 @@
-# django-books
+# django-books project demo 1
